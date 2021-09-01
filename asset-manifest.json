@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0c8619a8.chunk.css",
+    "main.js": "/Portfolio/static/js/main.05ebe1d8.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.05ebe1d8.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.4da1abc5.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4da1abc5.js.map",
+    "static/js/2.be1221c5.chunk.js": "/Portfolio/static/js/2.be1221c5.chunk.js",
+    "static/js/2.be1221c5.chunk.js.map": "/Portfolio/static/js/2.be1221c5.chunk.js.map",
+    "static/js/3.cdc0cc2b.chunk.js": "/Portfolio/static/js/3.cdc0cc2b.chunk.js",
+    "static/js/3.cdc0cc2b.chunk.js.map": "/Portfolio/static/js/3.cdc0cc2b.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.0c8619a8.chunk.css.map": "/Portfolio/static/css/main.0c8619a8.chunk.css.map",
+    "static/js/2.be1221c5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.be1221c5.chunk.js.LICENSE.txt",
+    "static/media/Calculator.png": "/Portfolio/static/media/Calculator.c4e0a3ad.png",
+    "static/media/Coding.png": "/Portfolio/static/media/Coding.92300caf.png",
+    "static/media/WomenTech Network Logo.png": "/Portfolio/static/media/WomenTech Network Logo.4366f635.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da1abc5.js",
+    "static/js/2.be1221c5.chunk.js",
+    "static/css/main.0c8619a8.chunk.css",
+    "static/js/main.05ebe1d8.chunk.js"
+  ]
+}
