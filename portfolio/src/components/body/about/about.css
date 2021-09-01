@@ -6,29 +6,8 @@
     justify-content: space-between;
     align-items: center;
 }
-.about-photo{
-    overflow:hidden;
-    transform:translateY(0px);
-    animation:float 6s ease-in-out infinite;
-    box-shadow: 0px 5px 15px 0px rgba(0,0,0,0);
-}
 .coding{
     height:420px;
-
-}
-@keyframes float {
-    0%{
-        box-shadow: 0px 5px 15px 0px rgba(0,0,0,0);
-        transform:translateY(0px);
-    }
-    50%{
-        box-shadow: 0px 25px 15px 0px rgba(0,0,0,0);
-        transform:translateY(-20px);
-    }
-    100%{
-        box-shadow: 0px 5px 15px 0px rgba(0,0,0,0);
-        transform:translateY(0px);
-    }
 }
 .about-info{
     font-size: 24px;
